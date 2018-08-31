@@ -190,7 +190,7 @@ case '3':
                 <span class="padding-small-top">这个填一个ISO3166标准的国际代码，默认建议填HK,一般为两位英文字母（如 台湾=TW，日本=JP）长度为2位。所填国家需要Youtube支持（可以从Youtube页面位置列表中看到），切记不能填CN，填CN或其他不支持代码将导致程序报错。如果你不知道某个国家的代码请访问<a href="http://doc.chacuo.net/iso-3166-1" class="text-dot "target="_blank">http://doc.chacuo.net/iso-3166-1</a></span>
                 
                 <label class="label font-b padding-small-top">网站名字</label>
-                <input type="text" class="input"  name="title" placeholder="大爷常来玩儿啊" />
+                <input type="text" class="input"  name="title" placeholder="河殇" />
                 
                 <label class="label font-b padding-small-top">站点名字</label>
                 <input type="text" class="input" name="sname" placeholder="DouDouTube" />
